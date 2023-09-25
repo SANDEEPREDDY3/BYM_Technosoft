@@ -56,7 +56,13 @@
     --masteriyo-color-warning-a10: rgba(255, 169, 77, 0.1);
     --masteriyo-color-danger-border: #ffa8a8;
     --masteriyo-color-info-border: #74c0fc;
-Show All Properties (7 more);
+    --masteriyo-color-success-border: #8ce99a;
+    --masteriyo-color-waring-border: #ffc078;
+    --masteriyo-color-facebook: #4267b2;
+    --masteriyo-color-gmail: #dd4b39;
+    --masteriyo-color-twitter: #55acee;
+    --masteriyo-color-linkedin: #2d7bb6;
+    --masteriyo-color-github: #242a2d;
 }
 
 :root {
@@ -82,7 +88,7 @@ html {
     -webkit-box-sizing: inherit;
     box-sizing: inherit;
 }
-html[Attributes Style] {
+html {
     -webkit-locale: "en-US";
 }
 user agent stylesheet
