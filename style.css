@@ -1,0 +1,104 @@
+
+:root {
+    --masteriyo-color-primary: #ff652f;
+    --masteriyo-color-primary-light: #ff833d;
+    --masteriyo-color-primary-dark: #f25f2c;
+    --masteriyo-color-btn-blue-hover: #ff833d;
+}
+:root {
+    --masteriyo-color-primary: #4584ff;
+    --masteriyo-color-primary-light: #78a6ff;
+    --masteriyo-color-primary-lightest: #f8faff;
+    --masteriyo-color-primary-dark: #4c5cc1;
+    --masteriyo-color-primary-a10: rgba(69, 132, 255, 0.1);
+    --masteriyo-color-primary-a20: rgba(69, 132, 255, 0.2);
+    --masteriyo-color-primary-a80: rgba(69, 132, 255, 0.8);
+    --masteriyo-color-accent: #fd739c;
+    --masteriyo-color-accent-light: #ff97b6;
+    --masteriyo-color-accent-dark: #fd739c;
+    --masteriyo-color-accent-darker: #fc6592;
+    --masteriyo-color-accent-a20: rgba(253, 115, 156, 0.2);
+    --masteriyo-color-white: #fff;
+    --masteriyo-color-white-a10: rgba(255, 255, 255, 0.1);
+    --masteriyo-color-grey-lighter: #fafbff;
+    --masteriyo-color-grey-light: #f9f9f9;
+    --masteriyo-color-grey-dark: #424360;
+    --masteriyo-color-green: #69db7c;
+    --masteriyo-color-green-a20: rgba(150, 230, 163, 0.2);
+    --masteriyo-color-background-grey: #f8f8f8;
+    --masteriyo-color-black: #000;
+    --masteriyo-color-golden: #e59819;
+    --masteriyo-color-heading: #07092f;
+    --masteriyo-color-text: #424360;
+    --masteriyo-color-text-light: #7c7d8f;
+    --masteriyo-color-text-light-a20: rgba(124, 125, 143, 0.1);
+    --masteriyo-color-blue-dark: #07092f;
+    --masteriyo-color-btn-grey: #424360;
+    --masteriyo-color-btn-blue-dark: #07092f;
+    --masteriyo-color-btn-blue-hover: #1262ff;
+    --masteriyo-color-btn-blue-active: #4c5cc1;
+    --masteriyo-color-placeholder: #acacbe;
+    --masteriyo-color-disabled: #f9f9f9;
+    --masteriyo-color-disabled-text: #424360;
+    --masteriyo-color-border: #ebecf2;
+    --masteriyo-color-badge-blue: #4dabf7;
+    --masteriyo-color-badge-red: #ff5252;
+    --masteriyo-color-badge-red-dark: #ff1f1f;
+    --masteriyo-color-badge-green: #69db7c;
+    --masteriyo-color-badge-pink: #fd739c;
+    --masteriyo-color-danger: #ff8787;
+    --masteriyo-color-danger-a10: rgba(255, 135, 135, 0.1);
+    --masteriyo-color-info: #4dabf7;
+    --masteriyo-color-info-a10: rgba(77, 171, 247, 0.1);
+    --masteriyo-color-success: #69db7c;
+    --masteriyo-color-success-a10: rgba(105, 219, 124, 0.1);
+    --masteriyo-color-warning: #ffa94d;
+    --masteriyo-color-warning-a10: rgba(255, 169, 77, 0.1);
+    --masteriyo-color-danger-border: #ffa8a8;
+    --masteriyo-color-info-border: #74c0fc;
+Show All Properties (7 more);
+}
+
+:root {
+    --wp--preset--font-size--normal: 16px;
+    --wp--preset--font-size--huge: 42px;
+}
+html {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html {
+    font-size: 90%;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+html[Attributes Style] {
+    -webkit-locale: "en-US";
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
+*, *::before, *::after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+*, *::before, *::after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
